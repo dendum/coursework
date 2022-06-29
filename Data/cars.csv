@@ -1,0 +1,4 @@
+ID;Name;VIN;State Number;Driver ID;Description
+0;Tesla;VIN444444444;BC23-54AC;12;Sedan
+1;VW Golf;VIN22222222;BC33-88HC;2;HB
+2;_Testcar;12;BC66-64AC;4;Universal
